@@ -1,3 +1,6 @@
 file0
 file1
 file3
+
+text
+text
